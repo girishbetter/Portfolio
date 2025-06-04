@@ -21,15 +21,20 @@ You can reach me at girishchapekar@gmail.com
 <br>
 ## 📸 Portfolio Website Preview
 
-Here are a few screenshots of my personal portfolio website:
-<br>
-<p align="center">
-  <img src="./images/HomePage.png" width="300"/>
-  <img src="./images/MyServices.png" width="300"/>
-  <img src="./images/MyWork.png" width="300"/>
-  <img src="./images/ContactMe.png" width="300"/>
-</p>
-<br>
+Here are a few full-width screenshots of my personal portfolio website:
+
+<img src="./images/HomePage.png" width="100%" alt="Home Page"/>
+<br/>
+<img src="./images/MyServices.png" width="100%" alt="My Services"/>
+<br/>
+<img src="./images/MyWork.png" width="100%" alt="My Work"/>
+<br/>
+<img src="./images/ContactMe.png" width="100%" alt="Contact Me"/>
+
+---
+
 ## 🎥 Portfolio Demo Video
-<br>
-👉 [Click here to watch the video demo](./images/portfolio-demo.mp4)
+
+> ⚠️ **Note**: GitHub does not support inline video playback from local files in `README.md`. But you can link to it like this:
+
+👉 [Click here to watch the demo video](./images/portfolio-demo.mp4)
