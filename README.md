@@ -24,10 +24,10 @@ You can reach me at girishchapekar@gmail.com
 Here are a few screenshots of my personal portfolio website:
 <br>
 <p align="center">
-  <img src="./images/HomePage" width="300"/>
-  <img src="./images/MyServices" width="300"/>
-  <img src="./images/MyWork" width="300"/>
-  <img src="./images/ContactMe" width="300"/>
+  <img src="./images/HomePage.png" width="300"/>
+  <img src="./images/MyServices.png" width="300"/>
+  <img src="./images/MyWork.png" width="300"/>
+  <img src="./images/ContactMe.png" width="300"/>
 </p>
 <br>
 ## 🎥 Portfolio Demo Video
