@@ -37,5 +37,6 @@ Here are a few full-width screenshots of my personal portfolio website:
 
 > ⚠️ **Note**: GitHub does not support inline video playback from local files in `README.md`. But you can link to it like this:
 
-[![Watch the demo video](https://drive.google.com/file/d/1ew6BOR2wRTylvFXDvl5GOGbF3oo4zAfR/view?usp=sharing)
+👉 [Watch the demo video](https://drive.google.com/file/d/1ew6BOR2wRTylvFXDvl5GOGbF3oo4zAfR/view?usp=sharing)
+
 
